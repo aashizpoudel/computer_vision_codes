@@ -1,1 +1,1 @@
-# computer_vision_utility_functions
+# Computer Vision Code Snippets and Notebooks
